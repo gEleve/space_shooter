@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "space_shooter", "space_shooter.csproj", "{05FE6F79-08C0-FC28-C088-1E7769033A2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "space_shooter.Editor", "space_shooter.Editor.csproj", "{80659E8F-30DA-DFB7-234A-79A07516FB73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05FE6F79-08C0-FC28-C088-1E7769033A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FE6F79-08C0-FC28-C088-1E7769033A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FE6F79-08C0-FC28-C088-1E7769033A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FE6F79-08C0-FC28-C088-1E7769033A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80659E8F-30DA-DFB7-234A-79A07516FB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80659E8F-30DA-DFB7-234A-79A07516FB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80659E8F-30DA-DFB7-234A-79A07516FB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80659E8F-30DA-DFB7-234A-79A07516FB73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
